@@ -1,0 +1,21 @@
+{
+  "name": "aoc_2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+  "dependencies": {
+    "advent-of-code": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarriere/AoC_2021.git"
+  },
+  "author": "Samuel Carriere",
+  "bugs": {
+    "url": "https://github.com/scarriere/AoC_2021/issues"
+  },
+  "homepage": "https://github.com/scarriere/AoC_2021#readme"
+}
