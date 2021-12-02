@@ -4,10 +4,16 @@
   "description": "Advent of Code 2021",
   "main": "index.js",
   "dependencies": {
-    "@aocjs/cli": "^1.0.0-alpha.2"
+    "@aocjs/cli": "^1.0.0-alpha.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
   },
-  "devDependencies": {},
-  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^16.11.11"
+  },
+  "scripts": {
+    "start": "npx aoc start"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scarriere/AoC_2021.git"
